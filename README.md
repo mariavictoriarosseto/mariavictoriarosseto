@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas vindas ao meu perfil <3 <3
 
-<!--
-**mariavictoriarosseto/mariavictoriarosseto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Victoria.
 
-Here are some ideas to get you started:
+- Estou fazendo projetos para o curso da Alura.
+- Estou fazendo projetos no JavaScript.
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Você pode entrar em contato comigo ^u^ 
+  
+  - 00001079407698sp@al.educacao.sp.gov.br
+  - @mariavictoriarosseto
+ 
